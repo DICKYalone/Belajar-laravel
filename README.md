@@ -1,2 +1,1 @@
-# Belajar-laravel
-Belajar laravel 1
+# latihan-laravel
